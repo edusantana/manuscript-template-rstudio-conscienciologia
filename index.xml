@@ -23,42 +23,56 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>La Palma Earthquakes Teste</article-title>
+<article-title>Autogestão do voluntariado: Relatório de
+2025</article-title>
 </title-group>
 
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
-<contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+<contrib-id contrib-id-type="orcid">0000-0002-9165-9438</contrib-id>
 <name>
-<surname>Purves</surname>
-<given-names>Steve</given-names>
+<surname>Santana</surname>
+<given-names>Eduardo</given-names>
 </name>
-<string-name>Steve Purves</string-name>
+<string-name>Eduardo Santana</string-name>
 
-<email>steve@curvenote.com</email>
-<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
-<role vocab="https://credit.niso.org" vocab-term="project
-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
-administration</role>
-<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
-<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<email>eduardo@editares.org</email>
+<role>Soluções Tecnológicas</role>
+<role>Diagramador</role>
+<role>Técnico de Transmissão</role>
 <xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="aff" rid="aff-3">c</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
-<name>
-<surname>Cockett</surname>
-<given-names>Rowan</given-names>
-</name>
-<string-name>Rowan Cockett</string-name>
-
-<xref ref-type="aff" rid="aff-1">a</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1">
 <institution-wrap>
-<institution>Curvenote</institution>
+<institution>ISIC</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2">
+<institution-wrap>
+<institution>Editares</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-3">
+<institution-wrap>
+<institution>Juriscons</institution>
 </institution-wrap>
 
 
@@ -69,13 +83,13 @@ administration</role>
 
 </aff>
 <author-notes>
-<corresp id="cor-1">steve@curvenote.com</corresp>
+<corresp id="cor-1">eduardo@editares.org</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-08-30">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-08-31">
 <year>2025</year>
 <month>8</month>
-<day>30</day>
+<day>31</day>
 </pub-date>
 
 
@@ -95,8 +109,9 @@ data is continually collected and published by the Instituto Geográphico
 Nacional (IGN). …</p>
 </abstract>
 <kwd-group kwd-group-type="author">
-<kwd>La Palma</kwd>
-<kwd>Earthquakes</kwd>
+<kwd>Voluntariado</kwd>
+<kwd>Conscienciologia</kwd>
+<kwd>Autogestão</kwd>
 </kwd-group>
 
 
@@ -250,41 +265,55 @@ Nacional (IGN). …</p>
 <sub-article article-type="notebook" id="nb-8-nb-article">
 <front-stub>
 <title-group>
-<article-title>La Palma Earthquakes Teste</article-title>
+<article-title>Autogestão do voluntariado: Relatório de
+2025</article-title>
 </title-group>
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
-<contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+<contrib-id contrib-id-type="orcid">0000-0002-9165-9438</contrib-id>
 <name>
-<surname>Purves</surname>
-<given-names>Steve</given-names>
+<surname>Santana</surname>
+<given-names>Eduardo</given-names>
 </name>
-<string-name>Steve Purves</string-name>
+<string-name>Eduardo Santana</string-name>
 
-<email>steve@curvenote.com</email>
-<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
-<role vocab="https://credit.niso.org" vocab-term="project
-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
-administration</role>
-<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
-<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<email>eduardo@editares.org</email>
+<role>Soluções Tecnológicas</role>
+<role>Diagramador</role>
+<role>Técnico de Transmissão</role>
 <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+<xref ref-type="aff" rid="aff-2-nb-article">b</xref>
+<xref ref-type="aff" rid="aff-3-nb-article">c</xref>
 <xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
-<name>
-<surname>Cockett</surname>
-<given-names>Rowan</given-names>
-</name>
-<string-name>Rowan Cockett</string-name>
-
-<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1-nb-article">
 <institution-wrap>
-<institution>Curvenote</institution>
+<institution>ISIC</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2-nb-article">
+<institution-wrap>
+<institution>Editares</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-3-nb-article">
+<institution-wrap>
+<institution>Juriscons</institution>
 </institution-wrap>
 
 
@@ -295,7 +324,7 @@ administration</role>
 
 </aff>
 <author-notes>
-<corresp id="cor-1-nb-article">steve@curvenote.com</corresp>
+<corresp id="cor-1-nb-article">eduardo@editares.org</corresp>
 </author-notes>
 <abstract>
 <p>In September 2021, a significant jump in seismic activity on the
